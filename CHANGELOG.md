@@ -1,6 +1,12 @@
 # CHANGELOG
 
-## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.2.505...HEAD)
+## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.2.506...HEAD)
+
+## [3.2.506](https://github.com/bridgecrewio/checkov/compare/3.2.505...3.2.506) - 2026-02-23
+
+### Bug Fix
+
+- **terraform:** return inner module path when dest_dir already exists on Linux - [#7436](https://github.com/bridgecrewio/checkov/pull/7436)
 
 ## [3.2.505](https://github.com/bridgecrewio/checkov/compare/3.2.504...3.2.505) - 2026-02-22
 
